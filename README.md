@@ -74,3 +74,13 @@ This MATLAB script also simulates the motion of a **slider-crank mechanism**. It
 Both the Python and MATLAB codes include real-time visualizations of the mechanisms, allowing you to see the motion of the links and the paths traced by specific points in the mechanism.
 
 
+<p align="center">
+  <img src="https://github.com/tahafaghani/mechanisms/blob/main/4-bar.png" width="45%" alt="4bar"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/tahafaghani/mechanisms/blob/main/slider.png" width="45%" alt="Slider"/>
+</p>
+
+
