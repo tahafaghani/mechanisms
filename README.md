@@ -73,6 +73,4 @@ This MATLAB script also simulates the motion of a **slider-crank mechanism**. It
 
 Both the Python and MATLAB codes include real-time visualizations of the mechanisms, allowing you to see the motion of the links and the paths traced by specific points in the mechanism.
 
-## License
 
-This project is open source and free to use under the MIT License.
